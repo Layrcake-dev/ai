@@ -1,5 +1,12 @@
 # ai
 
+## 5.0.279
+
+### Patch Changes
+
+- Updated dependencies [fd50c4d]
+  - @ai-sdk/gateway@2.0.170
+
 ## 5.0.278
 
 ### Patch Changes
